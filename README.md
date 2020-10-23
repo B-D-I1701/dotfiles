@@ -4,6 +4,3 @@
 * Bar: Polybar
 * Terminal: kitty
 * Composite Manager: compton
-
-## TODO
-* zshrc
